@@ -1,4 +1,0 @@
-import SpY
-SpY.run()
-
-.
